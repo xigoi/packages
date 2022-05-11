@@ -26139,10 +26139,8 @@
     "url": "https://git.sr.ht/~xigoi/matext",
     "method": "git",
     "tags": [
-      "markup",
-      "language",
-      "document",
-      "ssg"
+      "math",
+      "latex"
     ],
     "description": "Render LaTeX math as multiline Unicode text",
     "license": "GPL-3.0-or-later",
